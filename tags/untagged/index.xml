@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on KANY KOHSEN</title>
-    <link>https://www.kanykohsen.com/tags/untagged/</link>
+    <link>https://kanykohsen.github.io/tags/untagged/</link>
     <description>Recent content in Untagged on KANY KOHSEN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 05 Jan 2020 01:51:47 +0900</lastBuildDate>
     
-	<atom:link href="https://www.kanykohsen.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kanykohsen.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test2</title>
-      <link>https://www.kanykohsen.com/posts/test2/</link>
+      <link>https://kanykohsen.github.io/posts/test2/</link>
       <pubDate>Sun, 05 Jan 2020 01:51:47 +0900</pubDate>
       
-      <guid>https://www.kanykohsen.com/posts/test2/</guid>
+      <guid>https://kanykohsen.github.io/posts/test2/</guid>
       <description>なんかcssが読み込まれない 独自ドメインにしたところ、cssが読み込まれないのか、完全に素のhtmlが表示されているように見える。というか多</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://www.kanykohsen.com/posts/test/</link>
+      <link>https://kanykohsen.github.io/posts/test/</link>
       <pubDate>Sat, 04 Jan 2020 23:44:06 +0900</pubDate>
       
-      <guid>https://www.kanykohsen.com/posts/test/</guid>
+      <guid>https://kanykohsen.github.io/posts/test/</guid>
       <description>作り直した 別のアカウントでコミットしてしまったのが気に食わなかったし、色々と雑な行為を繰り返し行ったので結局作り直してみた。どうでしょうか。</description>
     </item>
     

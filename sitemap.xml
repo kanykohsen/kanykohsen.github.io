@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kanykohsen.github.io/posts/test2/</loc>
+    <lastmod>2020-01-05T01:51:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kanykohsen.github.io/portfolio/</loc>
     <lastmod>2020-01-04T23:46:38+09:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://kanykohsen.github.io/</loc>
-    <lastmod>2020-01-04T23:46:38+09:00</lastmod>
+    <lastmod>2020-01-05T01:51:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kanykohsen.github.io/posts/</loc>
-    <lastmod>2020-01-04T23:44:06+09:00</lastmod>
+    <lastmod>2020-01-05T01:51:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,7 +41,7 @@
   
   <url>
     <loc>https://kanykohsen.github.io/tags/untagged/</loc>
-    <lastmod>2020-01-04T23:44:06+09:00</lastmod>
+    <lastmod>2020-01-05T01:51:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   

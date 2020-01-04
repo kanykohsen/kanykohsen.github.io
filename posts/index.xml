@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on KANY KOHSEN</title>
+		<link>https://kanykohsen.github.io/posts/</link>
+		<description>Recent content in Posts on KANY KOHSEN</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 04 Jan 2020 23:44:06 +0900</lastBuildDate>
+		<atom:link href="https://kanykohsen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://kanykohsen.github.io/posts/test/</link>
+			<pubDate>Sat, 04 Jan 2020 23:44:06 +0900</pubDate>
+			
+			<guid>https://kanykohsen.github.io/posts/test/</guid>
+			<description>作り直した 別のアカウントでコミットしてしまったのが気に食わなかったし、色々と雑な行為を繰り返し行ったので結局作り直してみた。どうでしょうか。
+markdown覚えたい 結局のところorg modeやtexやmarkdownなど様々な書き方が世の中にはあるが、素直に一番浸透している書き方で統一するのが一番いいことに今更ながら気づき、markdown一本に絞ることに。エンジニアとして多少生きていくのであればそれが正しい行為だろう。</description>
+			<content type="html"><![CDATA[
+
+<h2 id="作り直した">作り直した</h2>
+
+<p>別のアカウントでコミットしてしまったのが気に食わなかったし、色々と雑な行為を繰り返し行ったので結局作り直してみた。どうでしょうか。</p>
+
+<h2 id="markdown覚えたい">markdown覚えたい</h2>
+
+<p>結局のところorg modeやtexやmarkdownなど様々な書き方が世の中にはあるが、素直に一番浸透している書き方で統一するのが一番いいことに今更ながら気づき、markdown一本に絞ることに。エンジニアとして多少生きていくのであればそれが正しい行為だろう。</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

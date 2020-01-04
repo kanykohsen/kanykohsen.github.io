@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KANY KOHSEN</title>
-    <link>https://kanykohsen.github.io/</link>
+    <link>https://kanykohsen.com/</link>
     <description>Recent content on KANY KOHSEN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 05 Jan 2020 01:51:47 +0900</lastBuildDate>
     
-	<atom:link href="https://kanykohsen.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kanykohsen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test2</title>
-      <link>https://kanykohsen.github.io/posts/test2/</link>
+      <link>https://kanykohsen.com/posts/test2/</link>
       <pubDate>Sun, 05 Jan 2020 01:51:47 +0900</pubDate>
       
-      <guid>https://kanykohsen.github.io/posts/test2/</guid>
+      <guid>https://kanykohsen.com/posts/test2/</guid>
       <description>なんかcssが読み込まれない 独自ドメインにしたところ、cssが読み込まれないのか、完全に素のhtmlが表示されているように見える。というか多分そう。独自ドメイン自体の設定はうまく行っているようである。</description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>https://kanykohsen.github.io/portfolio/</link>
+      <link>https://kanykohsen.com/portfolio/</link>
       <pubDate>Sat, 04 Jan 2020 23:46:38 +0900</pubDate>
       
-      <guid>https://kanykohsen.github.io/portfolio/</guid>
+      <guid>https://kanykohsen.com/portfolio/</guid>
       <description>Comming Soon.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://kanykohsen.github.io/posts/test/</link>
+      <link>https://kanykohsen.com/posts/test/</link>
       <pubDate>Sat, 04 Jan 2020 23:44:06 +0900</pubDate>
       
-      <guid>https://kanykohsen.github.io/posts/test/</guid>
+      <guid>https://kanykohsen.com/posts/test/</guid>
       <description>作り直した 別のアカウントでコミットしてしまったのが気に食わなかったし、色々と雑な行為を繰り返し行ったので結局作り直してみた。どうでしょうか。
 markdown覚えたい 結局のところorg modeやtexやmarkdownなど様々な書き方が世の中にはあるが、素直に一番浸透している書き方で統一するのが一番いいことに今更ながら気づき、markdown一本に絞ることに。エンジニアとして多少生きていくのであればそれが正しい行為だろう。</description>
     </item>
     
     <item>
       <title>About Hugo</title>
-      <link>https://kanykohsen.github.io/about-hugo/</link>
+      <link>https://kanykohsen.com/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kanykohsen.github.io/about-hugo/</guid>
+      <guid>https://kanykohsen.com/about-hugo/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>

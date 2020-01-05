@@ -7,40 +7,25 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>ja-JP</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 05 Jan 2020 01:51:47 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jan 2020 05:16:10 +0900</lastBuildDate>
 		<atom:link href="https://www.kanykohsen.com/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Test2</title>
-			<link>https://www.kanykohsen.com/posts/test2/</link>
-			<pubDate>Sun, 05 Jan 2020 01:51:47 +0900</pubDate>
+			<title>blogのようなもの始めます</title>
+			<link>https://www.kanykohsen.com/posts/myfirstpost/</link>
+			<pubDate>Mon, 06 Jan 2020 05:16:10 +0900</pubDate>
 			
-			<guid>https://www.kanykohsen.com/posts/test2/</guid>
-			<description>なんかcssが読み込まれない 独自ドメインにしたところ、cssが読み込まれないのか、完全に素のhtmlが表示されているように見える。というか多</description>
-			<content type="html"><![CDATA[
+			<guid>https://www.kanykohsen.com/posts/myfirstpost/</guid>
+			<description>アウトプットをする能力はインプットよりも大切な行為であると私は考えている。 うまくアウトプットをすることができるからこそ良質なインプットが形成</description>
+			<content type="html"><![CDATA[<p>アウトプットをする能力はインプットよりも大切な行為であると私は考えている。<br />
+うまくアウトプットをすることができるからこそ良質なインプットが形成されると信じているからだ。</p>
 
-<h2 id="なんかcssが読み込まれない">なんかcssが読み込まれない</h2>
+<p>現在の私はその技術に長けてないのは明白な事実である。<br />
+どうにかする手段として、やはりアウトプットをするしかないという結論に至ったわけである。</p>
 
-<p>独自ドメインにしたところ、cssが読み込まれないのか、完全に素のhtmlが表示されているように見える。というか多分そう。独自ドメイン自体の設定はうまく行っているようである。</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Test</title>
-			<link>https://www.kanykohsen.com/posts/test/</link>
-			<pubDate>Sat, 04 Jan 2020 23:44:06 +0900</pubDate>
-			
-			<guid>https://www.kanykohsen.com/posts/test/</guid>
-			<description>作り直した 別のアカウントでコミットしてしまったのが気に食わなかったし、色々と雑な行為を繰り返し行ったので結局作り直してみた。どうでしょうか。</description>
-			<content type="html"><![CDATA[
+<p>見切り発車のこのブログのようなものだが、気になったことや日常、他人に共有したいことなどをうまく伝えていけたらいいな、と思っている。</p>
 
-<h2 id="作り直した">作り直した</h2>
-
-<p>別のアカウントでコミットしてしまったのが気に食わなかったし、色々と雑な行為を繰り返し行ったので結局作り直してみた。どうでしょうか。</p>
-
-<h2 id="markdown覚えたい">markdown覚えたい</h2>
-
-<p>結局のところorg modeやtexやmarkdownなど様々な書き方が世の中にはあるが、素直に一番浸透している書き方で統一するのが一番いいことに今更ながら気づき、markdown一本に絞ることに。エンジニアとして多少生きていくのであればそれが正しい行為だろう。</p>
+<p>蟹光線と申します。宜しくおねがいします。</p>
 ]]></content>
 		</item>
 		
